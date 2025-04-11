@@ -1,4 +1,3 @@
-# PassportValueObject
-my project from my first work
+# PassportValueObject (2020)
 
 Модель паспорта и тесты к ней.
